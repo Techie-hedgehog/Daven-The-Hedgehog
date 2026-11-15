@@ -1,4 +1,8 @@
-# Hopeful Hedgehog
+# Devan - The Hedgehog
+##Team Members
+Vansh Verma
+Chaitanya Garg
+Mridul Thakur 
 
 ## Overview
 Hopeful Hedgehog is a 2D side-scrolling arcade game developed in Godot Engine 4. Inspired by classic vertical-navigation mechanics and high-speed action platformers, players guide a hedgehog through an alpine wilderness. The objective is to navigate between suspended icicles and snow-covered pine trees while collecting berries and utilizing a high-speed spin dash ability. Reaching the target berry count concludes the game with an encouraging message focused on resilience, mental well-being, and optimism.
