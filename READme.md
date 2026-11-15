@@ -1,4 +1,4 @@
-# Devan - The Hedgehog
+# Daven - The Hedgehog
 ##Team Members
 Vansh Verma
 Chaitanya Garg
